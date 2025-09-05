@@ -89,14 +89,14 @@ npx convex dev
 
 ### Setting up Clerk
 
-1. [Create a Clerk application by Clicking here!](https://go.clerk.com/34AwsuT)
+1. [Create a Clerk application by Clicking here!](https://go.clerk.com/)
 2. Configure authentication providers
 3. Set up redirect URLs
 4. Add environment variables
 
 ### Setting up Convex
 
-1. [Create a Convex account by Clicking here!](https://convex.dev/c/sonnysangha)
+1. [Create a Convex account by Clicking here!](https://convex.dev)
 2. Create a new project
 3. Install the Convex CLI:
    ```bash
@@ -245,4 +245,4 @@ Note: Make sure your webhook endpoint (`/api/webhooks/stripe`) is properly confi
    - Skeleton loaders
    - Smooth transitions
 
-   
+
