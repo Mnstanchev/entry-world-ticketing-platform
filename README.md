@@ -220,39 +220,7 @@ Note: Make sure your webhook endpoint (`/api/webhooks/stripe`) is properly confi
 4. Complete purchase within time limit
 5. Access digital ticket with QR cod
 
-## Join the worlds best developer course & community Zero to Full Stack Hero! 🚀
 
-### Want to Master Modern Web Development?
-
-This project was built as part of the [Zero to Full Stack Hero 2.0](https://www.papareact.com/course) course, taught by Sonny Sangha. Join thousands of developers and learn how to build projects like this and much more!
-
-#### What You'll Get:
-
-- 📚 Comprehensive Full Stack Development Training
-- 🎯 50+ Real-World Projects
-- 🤝 Access to the PAPAFAM Developer Community
-- 🎓 Weekly Live Coaching Calls with Sonny
-- 🤖 AI & SaaS Development Modules
-- 💼 Career Guidance & Interview Prep
-
-#### Course Features:
-
-- Lifetime Access to All Content
-- Live Coaching Sessions
-- Private Discord Community
-- AI Mastery Module
-- SaaS Development Track
-- And much more!
-
-[Join Zero to Full Stack Hero Today!](https://www.papareact.com/course)
-
-## Support
-
-For support, email team@papareact.com
-
----
-
-Built with ❤️ for the PAPAFAM
 
 ### Handling Refunds and Cancellations
 
@@ -276,3 +244,5 @@ Built with ❤️ for the PAPAFAM
    - Progress indicators
    - Skeleton loaders
    - Smooth transitions
+
+   
