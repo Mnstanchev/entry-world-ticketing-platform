@@ -75,7 +75,7 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 ```bash
 # Clone the repository
-git clone https://github.com/sonnysangha/ticket-marketplace-saas-nextjs15-convex-clerk-stripe-connect
+git clone git@github.com:Mnstanchev/entry-world-ticketing-platform.git
 
 # Install dependencies
 npm install
